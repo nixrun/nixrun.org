@@ -14,6 +14,7 @@ in {
       {package = pkgs.nodePackages_latest.node2nix;}
       {package = pkgs.nodePackages_latest.svgo;}
       {package = pkgs.pngout;}
+      {package = pkgs.libwebp;}
     ];
   };
 }
